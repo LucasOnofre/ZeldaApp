@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zelda App</string>
+
+    <string name="try_again">Try Again</string>
+    <string name="back_to_top">Back to the top</string>
+    <string name="couldnt_load">Ops! Something went wrong</string>
+    <string name="full_results">End of the line!</string>
+    <string name="title_search">Search</string>
+    <string name="common_locations">Common Locations</string>
+</resources>
